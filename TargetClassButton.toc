@@ -1,0 +1,12 @@
+﻿## Interface: 11303
+## Title: TargetClassButton
+## Title-zhCN: 目标头像职业图标按钮
+## Notes: Add a button to Blizzard target portrait which can be clicked for some functionality
+## Notes-zhCN: TargetClassButton 左键观察、右键交易、中键密语、鼠标按键4跟随、鼠标按键5邀请
+## Version: 1.7.0
+## Author: networm(狂飙)
+
+
+TargetClassButton.lua
+Bindings.lua
+Bindings.xml
